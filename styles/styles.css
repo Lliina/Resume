@@ -1,0 +1,53 @@
+/* main styles */
+.main{
+    display: flex;
+    flex-direction: row-reverse;
+    background-color: #f3eff5;
+    width: 1200px;
+    margin: 0 auto;
+
+}
+
+.main-content{
+    background-color: rgb(209, 158, 243);
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+/* about styles */
+.about{
+    background-color: rgb(220 144 215);
+    
+}
+/* certificates styles  */
+.certificates{
+   background-color: rgb(226, 186, 235);  
+
+   margin-top: 30px;
+   margin-bottom: 30px;
+   margin-left: 60px;
+   margin-right: 90px;
+}
+
+.certificates-title{
+    font-size: 45px;
+    color: rgb(0, 0, 0);
+}
+
+/* work styles  */
+.work{
+    background-color: rgb(255 255 255);
+
+    padding-top: 10px;
+    padding-bottom: 50px;
+    padding-left: 20px;
+    padding-right: 40px ;
+}
+
+
+/* sidebar styles  */
+.sidebar{
+    background-color: #99b2d7; 
+}
